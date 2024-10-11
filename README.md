@@ -1,5 +1,5 @@
 # 💫 About Me:
-while (alive){<br>\teat( );<br>\tsleap( );<br>\tcode( );<br>}    
+while (alive){<br>eat( );<br>sleap( );<br>code( );<br>}    
 
 
 ## 🌐 Socials:
