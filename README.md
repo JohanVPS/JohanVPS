@@ -1,5 +1,5 @@
 # 💫 About Me:
-while (alive){<br>eat( );<br>sleap( );<br>code( );<br>}    
+while (alive){<br>eat( );<br>sleep( );<br>code( );<br>}    
 
 
 ## 🌐 Socials:
