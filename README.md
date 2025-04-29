@@ -35,9 +35,9 @@
 
   <a href="#" align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PedroSmaxy&bg_color=00000000&color=f2f2f2&line=20D7F7&point=46c7de&area=true&hide_border=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PedroSmaxy&bg_color=00000000&color=000000&line=20D7F7&point=46c7de&area=true&hide_border=true" />
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroSmaxy&bg_color=00000000&color=f2f2f2&line=20D7F7&point=46c7de&area=true&hide_border=true"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=JohanVPS&bg_color=00000000&color=f2f2f2&line=20D7F7&point=46c7de&area=true&hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=JohanVPS&bg_color=00000000&color=000000&line=20D7F7&point=46c7de&area=true&hide_border=true" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=JohanVPS&bg_color=00000000&color=f2f2f2&line=20D7F7&point=46c7de&area=true&hide_border=true"/>
     </picture>
   </a>
 
