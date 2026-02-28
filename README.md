@@ -28,11 +28,6 @@
     </a>
   </div>
 
-  <div align="center" padding="5%"> 
-    <h3>💬 About Me</h3>
-    <p>while (alive) {<br>&nbsp;&nbsp;&nbsp;eat();<br>&nbsp;&nbsp;&nbsp;sleep();<br>&nbsp;&nbsp;&nbsp;code();<br>}</p>
-  </div>
-
   <a href="#" align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=JohanVPS&bg_color=00000000&color=f2f2f2&line=20D7F7&point=46c7de&area=true&hide_border=true" />
@@ -61,16 +56,19 @@
   <div align="center">
     <a href="#"> 
       <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+      <img src="https://img.shields.io/badge/git-%23E34F26.svg?style=for-the-badge&logo=git&logoColor=white">
       <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
       <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
       <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
       <img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white">
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/n8n-%23121011.svg?style=for-the-badge&logo=n8n&logoColor=orange">
       <br />
       <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
       <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
       <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34">
+      <img src="https://img.shields.io/badge/docker-%2300599C.svg?style=for-the-badge&logo=docker&logoColor=white">
       <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
       <img src="https://img.shields.io/badge/supabase-%23121011.svg?style=for-the-badge&logo=supabase&logoColor=green&color=darkgreen">
       <img src="https://img.shields.io/badge/typescript-%23121011.svg?style=for-the-badge&logo=typescript&logoColor=blue&color=navy">
