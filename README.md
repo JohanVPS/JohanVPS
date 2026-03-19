@@ -92,10 +92,10 @@
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
   </div>
 
-  <div align="center" padding="5%"> 
+  <!-- <div align="center" padding="5%"> 
     <h3>🔝 Top Contributed Repo</h3>
     <img src="https://github-contributor-stats.vercel.app/api?username=JohanVPS&limit=5&theme=dark&combine_all_yearly_contributions=true">
-  </div>
+  </div> -->
 
   <div>
     <a href="#">
